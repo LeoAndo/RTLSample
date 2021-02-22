@@ -15,26 +15,27 @@ https://android-developers.googleblog.com/2013/03/native-rtl-support-in-android-
 ## エビデンス
 左右にマージンを入れてレイアウトを確認
 
-### OS: 4.2 (言語設定: English)
-
-| layout_marginStart/End | layout_marginleft/Right |
-| --- | --- |
-| <img src="capture/1.png" width=320> | <img src="capture/2.png" width=320> |
-
 ### OS: 4.2 (言語設定: Arabic)
 
 | layout_marginStart/End | layout_marginleft/Right |
 | --- | --- |
 | <img src="capture/3.png" width=320> | <img src="capture/4.png" width=320> |
 
-### OS: 4.1 (言語設定: English)
+### OS: 4.2 (言語設定: English)
 
 | layout_marginStart/End | layout_marginleft/Right |
 | --- | --- |
-| <img src="capture/5.png" width=320> | <img src="capture/6.png" width=320> |
+| <img src="capture/1.png" width=320> | <img src="capture/2.png" width=320> |
+
 
 ### OS: 4.1 (言語設定: Arabic)
 
 | layout_marginStart/End | layout_marginleft/Right |
 | --- | --- |
 | <img src="capture/7.png" width=320> | <img src="capture/8.png" width=320> |
+
+### OS: 4.1 (言語設定: English)
+
+| layout_marginStart/End | layout_marginleft/Right |
+| --- | --- |
+| <img src="capture/5.png" width=320> | <img src="capture/6.png" width=320> |
