@@ -19,22 +19,22 @@ https://android-developers.googleblog.com/2013/03/native-rtl-support-in-android-
 
 | layout_marginStart/End | layout_marginleft/Right |
 | --- | --- |
-| <img src="1.png" width=320> | <img src="2.png" width=320> |
+| <img src="capture/1.png" width=320> | <img src="capture/2.png" width=320> |
 
 ### OS: 4.2 (言語設定: Arabic)
 
 | layout_marginStart/End | layout_marginleft/Right |
 | --- | --- |
-| <img src="3.png" width=320> | <img src="4.png" width=320> |
+| <img src="capture/3.png" width=320> | <img src="capture/4.png" width=320> |
 
 ### OS: 4.1 (言語設定: English)
 
 | layout_marginStart/End | layout_marginleft/Right |
 | --- | --- |
-| <img src="5.png" width=320> | <img src="6.png" width=320> |
+| <img src="capture/5.png" width=320> | <img src="capture/6.png" width=320> |
 
 ### OS: 4.1 (言語設定: Arabic)
 
 | layout_marginStart/End | layout_marginleft/Right |
 | --- | --- |
-| <img src="7.png" width=320> | <img src="8.png" width=320> |
+| <img src="capture/7.png" width=320> | <img src="capture/8.png" width=320> |
