@@ -2,7 +2,7 @@
 
 アプリがサポートする最小OSバージョンが
 OS: 4.2 (minSdkVersion が 17)以上の場合、`layout_marginStart/End` を使用する。<br>
-OS: 4.1 (minSdkVersion が 16)以下の場合、`layout_marginStart/End`に加えて、`layout_marginLeft/Right`  を設定する。<br>
+OS: 4.1 (minSdkVersion が 16)以下の場合、`layout_marginLeft/Right`  を設定する。<br>
 
 ## 理由
 [layout_marginStart](https://developer.android.com/reference/android/view/ViewGroup.MarginLayoutParams#setMarginStart(int)
