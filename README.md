@@ -14,7 +14,7 @@ OS: 4.1 (minSdkVersion が 16)以下の場合、`layout_marginStart/End`に加�
 https://android-developers.googleblog.com/2013/03/native-rtl-support-in-android-42.html
 
 
-## エビデンス
+## 動作確認
 左右にマージンを入れてレイアウトを確認
 
 ### OS: 4.2 (言語設定: Arabic)
